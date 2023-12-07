@@ -19,4 +19,7 @@ DATABASE=mongodb://localhost:27017/library
 ### Run the Application:
 `npm start`
 
+### Add mock data
+`node add_mock_data.js`
+
 The application will be running on http://localhost:7000.
